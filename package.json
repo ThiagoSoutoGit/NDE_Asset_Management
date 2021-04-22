@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:devo": "vuepress dev docs --open --host localhost",
+    "docs:build": "vuepress build docs",
+    "push": "scp -r docs/.vuepress/dist/* frontend@223.165.66.36:~container/application/public/manual/"
+  },
+  "dependencies": {
+    "@mdi/font": "^4.9.95",
+    "material-design-icons-iconfont": "^5.0.1",
+    "vuetify": "^2.2.12"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.3.0"
+  }
+}
