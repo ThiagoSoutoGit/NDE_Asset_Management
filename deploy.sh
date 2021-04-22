@@ -20,7 +20,8 @@ git init
 git add .
 git commit -m 'New deployment'
 
-git remote add origin git@github.com:ThiagoSoutoGit/ProgrammingOracle.git
+git remote add origin git@github.com:ThiagoSoutoGit/NDE_Asset_Management.git
+
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
