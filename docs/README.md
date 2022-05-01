@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /NDE-Solutions_logo_colour.jpg
+heroImage: /ATCL-logo.png
 actionText: Get Started →
 actionLink: /CreatingAssets/
 features:
@@ -31,9 +31,8 @@ footer: Copyright © 2020 - Skinny Robot
 # Useful Links and Resources
 <br>
 
-[GMSQR](https://www.qr.skinnyrobot.co.nz)
+[GMSQR](https://www.onsitech.skinnyrobot.co.nz)
 
-[GMS](http://www.gmsltda.cl/)
 
 [Skinny Robot](https://www.skinnyrobot.co.nz)
 

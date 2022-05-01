@@ -1,7 +1,7 @@
 module.exports = {
   plugins: ['@vuepress/back-to-top'],
   base: '/NDE_Asset_Management/',
-  title: 'NDE Solutions - Asset Management',
+  title: 'ATC - Asset Management',
   description: 'An Asset Management Tool created by Skinny Robot',
   themeConfig: {
     nav: [
