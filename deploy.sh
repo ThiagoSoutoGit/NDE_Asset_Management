@@ -18,7 +18,7 @@ cd docs/.vuepress/dist
 
 git init
 git add .
-git commit -m 'New deployment'
+git commit 'New deployment'
 
 git remote add origin git@github.com:ThiagoSoutoGit/NDE_Asset_Management.git
 
